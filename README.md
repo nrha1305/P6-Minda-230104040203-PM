@@ -7,7 +7,6 @@ Proyek ini dibuat sebagai implementasi **Modul Praktikum Mobile Programming #6 (
 ---
 
 ##**Screenshots**
-![Screenshot_2026-01-03-02-27-50-926_id antasari minda](https://github.com/user-attachments/assets/4a07597f-69b9-44b6-8364-b99cd1af0697)
 ![Screenshot_2026-01-03-02-15-13-487_id antasari minda](https://github.com/user-attachments/assets/33bf05df-ea59-48a4-ab26-a65d26eec0a0)
 ![Screenshot_2026-01-03-02-15-24-852_id antasari minda](https://github.com/user-attachments/assets/9408ba53-3e24-4cb5-8f0d-b539be1586f2)
 ![Screenshot_2026-01-03-02-15-26-544_id antasari minda](https://github.com/user-attachments/assets/f36243b6-950e-4f9a-8dde-57603c0328a8)
@@ -17,6 +16,7 @@ Proyek ini dibuat sebagai implementasi **Modul Praktikum Mobile Programming #6 (
 ![Screenshot_2026-01-03-02-15-39-355_id antasari minda](https://github.com/user-attachments/assets/413965eb-e691-4b46-a086-a3f0a42d41d5)
 ![Screenshot_2026-01-03-02-15-42-088_id antasari minda](https://github.com/user-attachments/assets/ac04bd0d-b357-4c39-b57d-e84a907bf1ac)
 ![Screenshot_2026-01-03-02-15-43-780_id antasari minda](https://github.com/user-attachments/assets/4ca6f026-03aa-4746-8b66-755f319b6deb)
+![Screenshot_2026-01-03-02-27-50-926_id antasari minda](https://github.com/user-attachments/assets/1866f3f3-e68b-4ad7-943e-ce4872fee887)
 
 
 ## ✨ Fitur Utama
